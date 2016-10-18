@@ -1,1 +1,99 @@
+header {
+  font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif;
+  font-weight: 900;
+  color: #760f33;
+  font-size: 55px;
+}
+
+h1 {
+  font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif;
+  font-weight: bolder;
+  color: #93334B;
+  font-size: 45px;
+}
+h2 {
+  font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif;
+  font-weight: lighter;
+  color: #CF6766;
+  font-size: 30px;
+}
+h3 {
+  font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif
+  font-weight: lighter;
+  color: #CF6766;
+}
+p {
+  font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif;
+  font-size: 15px;
+
+}
+body{
+  background-color: #E5E5E5
+}
+div {
+  width: 250px;
+  border: 5px solid grey;
+  padding: 5px;
+  margin: 10px;
+  background-color: #F0F8FF;
+}
+img {
+  float: right;
+  vertical-align: middle;
+  border: 5px solid #E5ECF6;
+}
+#alex{
+  align: right;
+  width: 300px;
+}
+#carrie {
+  float: right;
+  vertical-align: middle;
+  width: 310px;
+  font-size: 12px;
+}
+#thomas {
+  float: right;
+  vertical-align: middle;
+  width: 320px;
+  font-size: 12px;
+}
+#sips {
+  width: 310px;
+  align: right;
+  text-align: right;
+}
+#phone {
+  float: right;
+  vertical-align: right;
+  width: 300px;
+  display: block;
+  font-size: 12px;
+  text-align: justify;
+}
+#swell {
+  width: 290px;
+  align: right;
+}
+.pens {
+  overflow: hidden;
+  float: right;
+  display: block;
+}
+.list {
+  font-size: 12px;
+}
+.dorms {
+  font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif;
+  font-size: 15px;
+}
+a:link {
+  text-decoration: none;
+}
+a:visited {
+  color: purple;
+}
+a:link {
+  color: blue;
+}
 
